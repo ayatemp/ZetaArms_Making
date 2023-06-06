@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2-axis_robot_arm_inverse.unity
+    guid: f128cc97b284a446793356e05deba029
   m_configObjects: {}
